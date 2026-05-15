@@ -22,7 +22,7 @@ const Footer = () => {
     e.preventDefault();
 
     try {
-      const res = await fetch("https://nss-web-dkgo.onrender.com/api/mail/contact", {
+      const res = await fetch("https://nss-backend-az92.onrender.com/api/mail/contact", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),
