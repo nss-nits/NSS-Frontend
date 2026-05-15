@@ -18,7 +18,7 @@ const Filter = () => {
   useEffect(() => {
     const fetchEvents = async () => {
       try {
-        const res = await fetch("https://nss-web-dkgo.onrender.com/api/events");
+        const res = await fetch("https://nss-backend-az92.onrender.com/api/events");
         const data = await res.json();
         setEvents(data);
         setFilteredEvents(data);
