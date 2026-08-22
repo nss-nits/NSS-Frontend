@@ -21,13 +21,14 @@ const Team = () => {
     "Vice President",
     "General Secretary", 
     "Treasurer",
-    "Resource Control Team",
-    "Research & Development Team",
+    "Resource Control",
+    "Reaserch & Development",
     "Design Team",
     "Content Team",
-    "PR Team",
-    "Media Team",
-     "Web Team",
+    "PR & Media team ",
+    "Web Team",
+    "Video Editing Team",
+    "Event Management Team",
   ];
 
   return (
