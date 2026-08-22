@@ -25,7 +25,7 @@ const Team = () => {
     "Reaserch & Development",
     "Design Team",
     "Content Team",
-    "PR & Media team ",
+    "PR & Media team",
     "Web Team",
     "Video Editing Team",
     "Event Management Team",
