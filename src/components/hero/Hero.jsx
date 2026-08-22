@@ -15,14 +15,14 @@ const Hero = () => {
         
         <Carousel.Item>
           <img
-            className="d-block w-100"
-            src="https://res.cloudinary.com/dgq4nmdgz/image/upload/v1742196763/yilppszyqagdgcpe54oa.jpg"
-            alt="second"
+            className="d-block w=100"
+            src="https://res.cloudinary.com/dgq4nmdgz/image/upload/v1742197090/moqjthevaz9ow7ofhn6h.jpg"
+            alt="fourth"
           />
           <Carousel.Caption>
-            <h2>Speaker Session</h2>
+            <h2>Republic Day</h2>
             <p>
-              NSS NIT Silchar step for awareness about Voluntary Blood Donation.
+              NSS NIT Silchar's Republic Day Parade.
             </p>
           </Carousel.Caption>
         </Carousel.Item>
@@ -42,14 +42,14 @@ const Hero = () => {
         </Carousel.Item>
         <Carousel.Item>
           <img
-            className="d-block w=100"
-            src="https://res.cloudinary.com/dgq4nmdgz/image/upload/v1742197090/moqjthevaz9ow7ofhn6h.jpg"
-            alt="fourth"
+            className="d-block w-100"
+            src="https://res.cloudinary.com/dgq4nmdgz/image/upload/v1742196763/yilppszyqagdgcpe54oa.jpg"
+            alt="second"
           />
           <Carousel.Caption>
-            <h2>Republic Day</h2>
+            <h2>Speaker Session</h2>
             <p>
-              NSS NIT Silchar's Republic Day Parade.
+              NSS NIT Silchar step for awareness about Voluntary Blood Donation.
             </p>
           </Carousel.Caption>
         </Carousel.Item>
