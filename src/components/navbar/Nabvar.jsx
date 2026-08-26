@@ -40,7 +40,7 @@ const Navbar = () => {
         <img src={Logo} alt="nss-logo" className="mr-2 logo-img " />
         <h2
           style={{
-            color: "#003399",
+            color: "#f5f5f5",
             margin: 0,
             fontSize: "1.5rem",
             fontWeight: "bold",
@@ -48,7 +48,7 @@ const Navbar = () => {
           }}
           className="nav-nss"
         >
-          NSS <span className="nit-silchar"> NIT Silchar</span>
+          NSS <span className="nit-silchar"> NITS</span>
         </h2>
       </Link>
       <div className="nav-sec">
