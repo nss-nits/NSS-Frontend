@@ -40,7 +40,7 @@ const Navbar = () => {
         <img src={Logo} alt="nss-logo" className="mr-2 logo-img " />
         <h2
           style={{
-            color: "white",
+            color: "#003399",
             margin: 0,
             fontSize: "1.5rem",
             fontWeight: "bold",

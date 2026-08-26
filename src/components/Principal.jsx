@@ -7,7 +7,7 @@ const impacts = [
     title: "Village Surveys",
     description:
       "Conducted surveys to identify real community challenges in rural areas.",
-    stat: "50+ villages",
+    stat: "10+ villages",
   },
   {
     icon: <PenTool className="w-8 h-8 text-pink-500" />,
