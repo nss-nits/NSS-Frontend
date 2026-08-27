@@ -207,6 +207,16 @@
         "facebook": "",
         "linkedin": "",
         "instagram": ""
+    },
+     {
+        "id": 22,
+        "name": "Ankush Kumar",
+        "team": "Event Management Team",
+        "designation": "Joint Secretary (Event Management)",
+        "imageUrl": "https://res.cloudinary.com/dlnwn8bfb/image/upload/v1787838097/Screenshot_2026-08-27-10-49-52-04_1c337646f29875672b5a61192b9010f9_imi8ht.jpg",
+        "facebook": "",
+        "linkedin": "",
+        "instagram": ""
     }
 
 ]
